@@ -50,28 +50,31 @@ ul li {
     line-height: 100px; 
 }
 .contact {
-   position:relative; 
-   left: 1200px; 
-   color: red;
+    position:relative; 
+    left: 700px; 
+    font-size: 30px;
+            color: red;
 }
 .Home {
-   position:relative; 
-   left: 100px;
-
+    position:relative; 
+    left: 100px;
+    font-size: 30px;
 }
 .About {
-   position:relative; 
-   left: 200px;
-
+    position:relative; 
+    left: 200px;
 }
 .Work {
-   position:relative; 
-   left: 300px;
+    position:relative; 
+    left: 300px;
+        font-size: 30px;
 
 }
 .Goals {
-   position:relative; 
-   left: 400px;
+    position:relative; 
+    left: 400px;
+        font-size: 30px;
+
 }
 ul li a {
    text-decoration: none;
